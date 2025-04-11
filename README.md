@@ -1,2 +1,5 @@
 # BixPythonProject0
-Bioinformatics Python Project
+
+## Bioinformatics Python Project
+
+More details on the project soon!
